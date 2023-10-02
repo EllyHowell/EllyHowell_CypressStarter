@@ -1,4 +1,4 @@
-_Repository for learning Cypress automation by Elly Howell_
+_Repository for basic Cypress project for automation testing by Elly Howell_
 
 ## Install Node.js + Add to System Environment Variables
 
