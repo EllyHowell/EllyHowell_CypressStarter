@@ -1,0 +1,12 @@
+{
+  "name": "ellyhowell_cypressstarter",
+  "version": "1.0.0",
+  "description": "Elly Howell's starter project for Cypress automation",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Elly Howell",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
